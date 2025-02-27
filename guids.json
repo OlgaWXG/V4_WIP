@@ -1,0 +1,52 @@
+[
+    {
+        "name": "0-3D-Scope Box",
+        "role": "3d",
+        "guid": "eebd92a6-4215-4683-6c36-a398f016a75f"
+    },
+    {
+        "name": "0-3D-Levels",
+        "role": "3d",
+        "guid": "346f22fc-0aae-9fb3-bba8-741c49aaf971"
+    },
+    {
+        "name": "0-3D-AR",
+        "role": "3d",
+        "guid": "8026ef3e-12ae-58be-75bb-1588684692ef"
+    },
+    {
+        "name": "#Survey",
+        "role": "2d",
+        "guid": "3b99ba07-74c7-491a-91af-5fb5845e41b8"
+    },
+    {
+        "name": "#Survey-Lot-322",
+        "role": "2d",
+        "guid": "bdae9144-797a-4b62-b7d7-7cdf2e572bb4"
+    },
+    {
+        "name": "#Survey-Lot-16",
+        "role": "2d",
+        "guid": "077a4648-934d-4211-86de-827343634dd0"
+    },
+    {
+        "name": "#Section_600-602",
+        "role": "2d",
+        "guid": "00997168-5441-44dc-9cdf-0680118c414b"
+    },
+    {
+        "name": "#Section_401+501",
+        "role": "2d",
+        "guid": "3eb010af-0a3d-4619-b552-453fbd852857"
+    },
+    {
+        "name": "#Section_400+102+500",
+        "role": "2d",
+        "guid": "e969e578-fa98-446d-b57d-665856110b5a"
+    },
+    {
+        "name": "#Section_100+101+BSM",
+        "role": "2d",
+        "guid": "584b9691-9b19-43ed-b734-6b5754e9660d"
+    }
+]
