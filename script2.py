@@ -117,13 +117,13 @@ def get_file_versions(access_token, project_id, file_id):
 def get_last_version_info(file_versions):
     """Находит последнюю версию файла HSD_URS.rvt и возвращает его ID и URN."""
     for file_name, versions in file_versions.items():
-        if file_name == "HSD_URS.rvt" and versions:
+        if file_name == "HSD_ST_BLD_600.rvt" and versions:
             last_version = versions[0]  # Первая в списке — самая последняя
             last_version_id = last_version['id']
             urn = last_version['relationships']['derivatives']['data']['id']
-            print(f"✅ Найдена последняя версия HSD_URS.rvt: ID {last_version_id}, URN {urn}")
+            print(f"✅ Найдена последняя версия HSD_ST_BLD_600.rvt: ID {last_version_id}, URN {urn}")
             return last_version_id, urn
-    print("❌ Файл HSD_URS.rvt не найден среди версий.")
+    print("❌ Файл HSD_ST_BLD_600.rvt не найден среди версий.")
     return None, None
 
 
