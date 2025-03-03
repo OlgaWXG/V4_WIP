@@ -1,132 +1,143 @@
 [
     {
-        "name": "STR",
+        "name": "BLD",
         "role": "3d",
         "guid": "a789963a-32e0-a98e-b958-6e542789369a"
     },
     {
-        "name": "600-601-602_L3(#)",
-        "role": "2d",
-        "guid": "eaa01ef2-dccd-4aaf-897e-3ba7a05d457e"
+        "name": "BLD+BSM",
+        "role": "3d",
+        "guid": "534169ba-ce10-40fa-ff73-9a9c28347c7c"
     },
     {
-        "name": "600-601-602_L4(#)",
-        "role": "2d",
-        "guid": "b749e8ec-8930-49c4-8d65-c72bda8b18d3"
+        "name": "New Construction",
+        "role": "3d",
+        "guid": "4477ad50-3d67-9a71-c414-360b2e477321",
+        "isMasterView": true
     },
     {
-        "name": "600-601-602_L5(#)",
+        "name": "600-601-602_L3(sheet)",
         "role": "2d",
-        "guid": "a94f3c0a-5cb6-4a8a-90cd-8f830cb78b78"
+        "guid": "bf89d194-758c-4d23-8c21-479d10a0f99c"
     },
     {
-        "name": "600-601-602_L7(#)",
+        "name": "600-601-602_L4(sheet)",
         "role": "2d",
-        "guid": "86e2cb9a-e9a2-4cec-af5b-59edf19d9132"
+        "guid": "cb799347-c382-445f-b00d-1fe48b0d5fe8"
     },
     {
-        "name": "600-601-602_L8(#)",
+        "name": "600-601-602_L5(sheet)",
         "role": "2d",
-        "guid": "ccfdea33-f3be-4c56-9a13-bd956eff0453"
+        "guid": "755ef184-a556-4857-b083-fc83466837f4"
     },
     {
-        "name": "600-601-602_L9(#)",
+        "name": "600-601-602_L6(sheet)",
         "role": "2d",
-        "guid": "a3de003c-ef2c-45da-bbad-6b5dc8cc0671"
+        "guid": "a2b0a7c7-88fd-4723-bc2a-c02fa2cbe989"
     },
     {
-        "name": "600-601-602_L10(#)",
+        "name": "600-601-602_L7(sheet)",
         "role": "2d",
-        "guid": "56db48c8-3972-4031-ab11-8ef85edf4440"
+        "guid": "ba9575d6-b9d4-4360-a3ec-178bcb474ef9"
     },
     {
-        "name": "600-601-602_L11(#)",
+        "name": "600-601-602_L8(sheet)",
         "role": "2d",
-        "guid": "b98ed52e-cba7-4f48-8250-94c73bb96021"
+        "guid": "f7b8b0e5-d13b-4213-bd33-c9aae601c7c0"
     },
     {
-        "name": "600-601-602_L12(#)",
+        "name": "600-601-602_L9(sheet)",
         "role": "2d",
-        "guid": "e971262e-1a39-46ca-bcc8-23220e5683f4"
+        "guid": "5c1ed206-f8bf-469f-bab9-ed87bfbeca4c"
     },
     {
-        "name": "600-601-602_L13(#)",
+        "name": "600-601-602_L10(sheet)",
         "role": "2d",
-        "guid": "fda8dce7-f3b8-4b43-8a9a-9cb73d8cb9e3"
+        "guid": "5d1d44b0-ece7-4d35-b4d2-d3874fd17903"
     },
     {
-        "name": "600-601-602_L14(#)",
+        "name": "600-601-602_L11(sheet)",
         "role": "2d",
-        "guid": "4bb40164-c014-4f99-9c9a-31b5ba95ed7d"
+        "guid": "6bfa5fb4-1690-437b-aad0-27e3351bbc66"
     },
     {
-        "name": "600-601-602_L15(#)",
+        "name": "600-601-602_L12(sheet)",
         "role": "2d",
-        "guid": "076b7258-84bb-4d52-a94d-704234ecbb2e"
+        "guid": "9ebfdcbd-5880-4c30-b737-e329cef6e2ee"
     },
     {
-        "name": "600-601-602_L16(#)",
+        "name": "600-601-602_L13(sheet)",
         "role": "2d",
-        "guid": "81b40bbc-5ac8-4dbe-a41f-dbe63ef00579"
+        "guid": "24de2cd1-cf5a-425e-84dd-88b1fffe534f"
     },
     {
-        "name": "600-601-602_L17(#)",
+        "name": "600-601-602_L14(sheet)",
         "role": "2d",
-        "guid": "fa972092-6342-4a3d-a4ac-1eaee7e5536b"
+        "guid": "b397fe19-0676-482c-aaec-7e2f0497dbb2"
     },
     {
-        "name": "600-601-602_L18(#)",
+        "name": "600-601-602_L15(sheet)",
         "role": "2d",
-        "guid": "102b51c7-1966-4cb4-aa9c-b852949ca653"
+        "guid": "5ba87830-9da4-4781-a7eb-9927ba625a07"
     },
     {
-        "name": "600-601-602_L19(#)",
+        "name": "600-601-602_L16(sheet)",
         "role": "2d",
-        "guid": "42fea93d-d9d7-486f-9ee6-e44ffb47c820"
+        "guid": "8b44c8bd-299f-463e-8d25-a6326a97d472"
     },
     {
-        "name": "600-601-602_L20(#)",
+        "name": "600-601-602_L17(sheet)",
         "role": "2d",
-        "guid": "4c67e05a-3e8c-4abc-8743-d766f44b79c0"
+        "guid": "d79691be-ce9e-43b4-aedf-999fb22283ab"
     },
     {
-        "name": "600-601-602_L21(#)",
+        "name": "600-601-602_L18(sheet)",
         "role": "2d",
-        "guid": "28b069f3-2d6d-4f3c-bd50-8054a7812e36"
+        "guid": "17114c59-65ba-41b6-a838-6c68fe20061e"
     },
     {
-        "name": "600-601-602_L22(#)",
+        "name": "600-601-602_L19(sheet)",
         "role": "2d",
-        "guid": "459c307f-979e-4e31-bc20-966a1dc41c8b"
+        "guid": "b7130ef4-22b4-4ca8-8eca-c2946c2d4020"
     },
     {
-        "name": "600-601-602_L23(#)",
+        "name": "600-601-602_L20(sheet)",
         "role": "2d",
-        "guid": "a4440ab8-63e7-4872-982b-5fda749e9546"
+        "guid": "422bc410-b288-4eb7-92b8-30eaddd76be0"
     },
     {
-        "name": "600-601-602_L24(#)",
+        "name": "600-601-602_L21(sheet)",
         "role": "2d",
-        "guid": "95b12cf3-74c7-4f60-8152-abec4fba9bec"
+        "guid": "f85031b7-51c1-41fb-a72a-6e1634861470"
     },
     {
-        "name": "600-601-602_L25(#)",
+        "name": "600-601-602_L22(sheet)",
         "role": "2d",
-        "guid": "54234180-ff3f-43da-b72d-5fba022a20c6"
+        "guid": "86cfe212-0df1-49c8-a5b3-c2b12056a024"
     },
     {
-        "name": "600-601-602_RF(#)",
+        "name": "600-601-602_L23(sheet)",
         "role": "2d",
-        "guid": "5d9feef6-d3fb-43db-a9c2-d06330f80231"
+        "guid": "79519d0b-6f1e-4fa0-8dbd-3c61b51c712b"
     },
     {
-        "name": "600-601-602_RT(#)",
+        "name": "600-601-602_L24(sheet)",
         "role": "2d",
-        "guid": "0fad83d3-6beb-485d-a3f3-65474c85d3e1"
+        "guid": "a8f49c08-ee93-423f-893e-8578578098ce"
+    },
+    {
+        "name": "600-601-602_L25(sheet)",
+        "role": "2d",
+        "guid": "3d569d7d-69c9-4b9b-9145-cf7cc2168295"
+    },
+    {
+        "name": "600-601-602_RF(sheet)",
+        "role": "2d",
+        "guid": "13edc981-b82c-4fdf-b8af-d8a0abd1e9ea"
     },
     {
         "name": "001 - Unnamed",
         "role": "2d",
-        "guid": "ef638928-661d-4dfa-b3ae-cfd33c290efb"
+        "guid": "1e3258a4-0c79-4374-81d1-390d5c1cfde9"
     }
 ]

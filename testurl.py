@@ -1,0 +1,13 @@
+import requests
+
+access_token = "eyJhbGciOiJSUzI1NiIsImtpZCI6IlhrUFpfSmhoXzlTYzNZS01oRERBZFBWeFowOF9SUzI1NiIsInBpLmF0bSI6ImFzc2MifQ.eyJzY29wZSI6WyJkYXRhOnJlYWQiLCJkYXRhOndyaXRlIiwiZGF0YTpjcmVhdGUiLCJidWNrZXQ6cmVhZCIsImJ1Y2tldDpjcmVhdGUiXSwiY2xpZW50X2lkIjoiR3JpNUFkME9hYkJlellYNVNld1kwSU9kMEtjQnVkNlEiLCJpc3MiOiJodHRwczovL2RldmVsb3Blci5hcGkuYXV0b2Rlc2suY29tIiwiYXVkIjoiaHR0cHM6Ly9hdXRvZGVzay5jb20iLCJqdGkiOiJVeWhrc1pRbE82OVl1RE1kZDBXa2RrOU1qZ0RxODlCcjBZVDdtbE9OSjFWa0ZJNHJleG9ieHg3QnRuOXd5dXhjIiwiZXhwIjoxNzQwOTk2MjEwfQ.DYg0EhbP8s1RX5WqYDOLbl0-7a3zEP9IkE2-qH7fzjrdjUziM8kwD4wLADaDWUuGNi-O9NF1rNukZ07pCqh-hPZOd5c3QIaBa7os3AEUEXdM_e1D-WckMXOwvQNVr-u3GTWD8y-tHJag5HNf3U2LeS0RGr8fdo2y_1b6V4RCHJk1YIbh59meofWz_CosHVpjjZwdhALNtyai-gfxeVGj6dE7ysdXofh371wy1cZ4RulEZdj-Wghs5dTe9MuyRmFejx4Emgq4Wm2-RYF8TT5tLo94NME-BUHo3p_ze14_cxnMrEyOdj7fMrrJmCxNTYY6fahtDNXUIcTUt7sfjJFIdg"
+project_id = "YOUR_PROJECT_ID"
+file_id = "YOUR_FILE_ID"
+
+url = f"https://developer.api.autodesk.com/bim360/admin/v1/projects/{project_id}/items/{file_id}/activities"
+headers = {'Authorization': f'Bearer {access_token}', 'Content-Type': 'application/json'}
+
+response = requests.get(url, headers=headers)
+
+print(f"Статус-код: {response.status_code}")
+print(f"Ответ: {response.json()}")
